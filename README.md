@@ -1,5 +1,17 @@
 # task-3
 
+COMPANY NAME : CODTECH IT SOLUTIONS PRIVATE LIMITED
+
+NAME : GOL BANSI HARESHBHAI
+
+INTERN ID :CTIS4904
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 12 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 Overview
 
 This project demonstrates an AI Chatbot with Natural Language Processing (NLP) using Python. The chatbot is designed to understand user input, process natural language, and generate meaningful responses in real time. It simulates human conversation and can be used for customer support, FAQs, learning assistants, and personal help systems.
